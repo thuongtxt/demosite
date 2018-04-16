@@ -1,0 +1,14 @@
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\bin\Debug\Site.Data.dll.config
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\bin\Debug\Site.Data.dll
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\bin\Debug\Site.Data.pdb
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\bin\Debug\EntityFramework.dll
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\bin\Debug\Site.Common.dll
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\bin\Debug\Site.Common.pdb
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\bin\Debug\EntityFramework.xml
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\obj\Debug\Site.Data.csprojResolveAssemblyReference.cache
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\obj\Debug\Site.Data.csproj.CoreCompileInputs.cache
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\obj\Debug\Site.Data.csproj.CopyComplete
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\obj\Debug\Site.Data.dll
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Data\obj\Debug\Site.Data.pdb

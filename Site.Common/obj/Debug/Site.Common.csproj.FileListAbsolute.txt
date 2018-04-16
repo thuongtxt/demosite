@@ -1,0 +1,6 @@
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Common\bin\Debug\Site.Common.dll
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Common\bin\Debug\Site.Common.pdb
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Common\obj\Debug\Site.Common.csprojResolveAssemblyReference.cache
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Common\obj\Debug\Site.Common.csproj.CoreCompileInputs.cache
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Common\obj\Debug\Site.Common.dll
+c:\users\6v1qzl2\source\repos\DemoSite\Site.Common\obj\Debug\Site.Common.pdb
